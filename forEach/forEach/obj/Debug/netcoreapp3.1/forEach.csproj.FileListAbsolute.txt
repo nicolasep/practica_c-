@@ -1,0 +1,13 @@
+C:\Users\nicol\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.exe
+C:\Users\nicol\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.deps.json
+C:\Users\nicol\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.runtimeconfig.json
+C:\Users\nicol\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.dll
+C:\Users\nicol\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.pdb
+C:\Users\nicol\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.AssemblyInfo.cs
+C:\Users\nicol\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.dll
+C:\Users\nicol\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.pdb
+C:\Users\nicol\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.genruntimeconfig.cache

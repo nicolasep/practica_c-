@@ -1,0 +1,13 @@
+C:\Users\nicol\source\repos\Almacen\Almacen\bin\Debug\netcoreapp3.1\Almacen.exe
+C:\Users\nicol\source\repos\Almacen\Almacen\bin\Debug\netcoreapp3.1\Almacen.deps.json
+C:\Users\nicol\source\repos\Almacen\Almacen\bin\Debug\netcoreapp3.1\Almacen.runtimeconfig.json
+C:\Users\nicol\source\repos\Almacen\Almacen\bin\Debug\netcoreapp3.1\Almacen.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\Almacen\Almacen\bin\Debug\netcoreapp3.1\Almacen.dll
+C:\Users\nicol\source\repos\Almacen\Almacen\bin\Debug\netcoreapp3.1\Almacen.pdb
+C:\Users\nicol\source\repos\Almacen\Almacen\obj\Debug\netcoreapp3.1\Almacen.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\Almacen\Almacen\obj\Debug\netcoreapp3.1\Almacen.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Almacen\Almacen\obj\Debug\netcoreapp3.1\Almacen.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Almacen\Almacen\obj\Debug\netcoreapp3.1\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Almacen\Almacen\obj\Debug\netcoreapp3.1\Almacen.dll
+C:\Users\nicol\source\repos\Almacen\Almacen\obj\Debug\netcoreapp3.1\Almacen.pdb
+C:\Users\nicol\source\repos\Almacen\Almacen\obj\Debug\netcoreapp3.1\Almacen.genruntimeconfig.cache
