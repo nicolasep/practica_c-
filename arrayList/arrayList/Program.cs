@@ -64,6 +64,12 @@ namespace arrayList
             Console.WriteLine("La nueva cantidad de elementos es: {0}", cantidad);
             Console.WriteLine("\n___________");
 
+            //encontrar indice donde se encuentra el 5
+
+            indice = datos.IndexOf(5);
+            Console.WriteLine("el primer 5 se encuentra en: {0}", indice);
+            Console.WriteLine("\n___________");
+
             Console.ReadKey();
         }
         static void imprime(ArrayList arreglo)

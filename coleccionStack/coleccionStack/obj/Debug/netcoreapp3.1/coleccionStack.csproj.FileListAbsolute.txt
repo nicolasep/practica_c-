@@ -1,0 +1,13 @@
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\bin\Debug\netcoreapp3.1\coleccionStack.exe
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\bin\Debug\netcoreapp3.1\coleccionStack.deps.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\bin\Debug\netcoreapp3.1\coleccionStack.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\bin\Debug\netcoreapp3.1\coleccionStack.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\bin\Debug\netcoreapp3.1\coleccionStack.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\bin\Debug\netcoreapp3.1\coleccionStack.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\obj\Debug\netcoreapp3.1\coleccionStack.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\obj\Debug\netcoreapp3.1\coleccionStack.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\obj\Debug\netcoreapp3.1\coleccionStack.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\obj\Debug\netcoreapp3.1\coleccionStack.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\obj\Debug\netcoreapp3.1\coleccionStack.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\obj\Debug\netcoreapp3.1\coleccionStack.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionStack\coleccionStack\obj\Debug\netcoreapp3.1\coleccionStack.genruntimeconfig.cache
