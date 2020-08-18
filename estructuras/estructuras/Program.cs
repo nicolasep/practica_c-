@@ -48,6 +48,24 @@ namespace estructuras
                     telefono = "Sin telefono";
                 }
             }
+            public Agenda(int codigo)
+            {
+                Console.WriteLine("Ingrese nombre");
+                nombre = Console.ReadLine();
+
+                //pedir edad
+                Console.WriteLine("Ingrese su edad");
+                edad = Convert.ToInt32(Console.ReadLine());
+
+                //pedir telefono
+                Console.WriteLine("Ingrese telefono");
+                telefono = Console.ReadLine();
+
+                if (telefono.Length < 8)
+                {
+                    telefono = "Sin telefono";
+                }
+            }
             public override string ToString()
             {
                 StringBuilder sb = new StringBuilder();
@@ -63,12 +81,15 @@ namespace estructuras
             Agenda amigo1 = new Agenda("Pedro", "23588524", 25);
             Agenda amigo2 = new Agenda("Jose", 28);
 
-            Agenda amigo3 = new Agenda("Marta");
+            //Agenda amigo3 = new Agenda("Marta");
+
+            Agenda amigo4 = new Agenda(1);
 
             Console.WriteLine(amigo.ToString());
             Console.WriteLine(amigo1.ToString());
             Console.WriteLine(amigo2.ToString());
-            Console.WriteLine(amigo3.ToString());
+            //Console.WriteLine(amigo3.ToString());
+            Console.WriteLine(amigo4.ToString());
 
             Console.ReadKey();
         }
