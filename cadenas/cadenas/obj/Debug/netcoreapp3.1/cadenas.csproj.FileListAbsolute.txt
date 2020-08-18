@@ -1,0 +1,13 @@
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.exe
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.deps.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.csprojAssemblyReference.cache

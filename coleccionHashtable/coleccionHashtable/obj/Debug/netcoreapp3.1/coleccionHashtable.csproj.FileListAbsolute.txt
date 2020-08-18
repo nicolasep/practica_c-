@@ -1,0 +1,13 @@
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\bin\Debug\netcoreapp3.1\coleccionHashtable.exe
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\bin\Debug\netcoreapp3.1\coleccionHashtable.deps.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\bin\Debug\netcoreapp3.1\coleccionHashtable.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\bin\Debug\netcoreapp3.1\coleccionHashtable.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\bin\Debug\netcoreapp3.1\coleccionHashtable.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\bin\Debug\netcoreapp3.1\coleccionHashtable.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\obj\Debug\netcoreapp3.1\coleccionHashtable.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\obj\Debug\netcoreapp3.1\coleccionHashtable.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\obj\Debug\netcoreapp3.1\coleccionHashtable.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\obj\Debug\netcoreapp3.1\coleccionHashtable.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\obj\Debug\netcoreapp3.1\coleccionHashtable.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\obj\Debug\netcoreapp3.1\coleccionHashtable.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\coleccionHashtable\coleccionHashtable\obj\Debug\netcoreapp3.1\coleccionHashtable.genruntimeconfig.cache

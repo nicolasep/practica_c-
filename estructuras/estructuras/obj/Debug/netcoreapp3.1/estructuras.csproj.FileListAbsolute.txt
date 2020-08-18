@@ -1,0 +1,13 @@
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\bin\Debug\netcoreapp3.1\estructuras.exe
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\bin\Debug\netcoreapp3.1\estructuras.deps.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\bin\Debug\netcoreapp3.1\estructuras.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\bin\Debug\netcoreapp3.1\estructuras.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\bin\Debug\netcoreapp3.1\estructuras.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\bin\Debug\netcoreapp3.1\estructuras.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\obj\Debug\netcoreapp3.1\estructuras.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\obj\Debug\netcoreapp3.1\estructuras.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\obj\Debug\netcoreapp3.1\estructuras.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\obj\Debug\netcoreapp3.1\estructuras.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\obj\Debug\netcoreapp3.1\estructuras.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\obj\Debug\netcoreapp3.1\estructuras.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\estructuras\estructuras\obj\Debug\netcoreapp3.1\estructuras.genruntimeconfig.cache
