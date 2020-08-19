@@ -1,0 +1,12 @@
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\bin\Debug\netcoreapp3.1\enumeraciones.exe
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\bin\Debug\netcoreapp3.1\enumeraciones.deps.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\bin\Debug\netcoreapp3.1\enumeraciones.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\bin\Debug\netcoreapp3.1\enumeraciones.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\bin\Debug\netcoreapp3.1\enumeraciones.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\bin\Debug\netcoreapp3.1\enumeraciones.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\obj\Debug\netcoreapp3.1\enumeraciones.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\obj\Debug\netcoreapp3.1\enumeraciones.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\obj\Debug\netcoreapp3.1\enumeraciones.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\obj\Debug\netcoreapp3.1\enumeraciones.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\obj\Debug\netcoreapp3.1\enumeraciones.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\enumeraciones\enumeraciones\obj\Debug\netcoreapp3.1\enumeraciones.genruntimeconfig.cache

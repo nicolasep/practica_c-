@@ -1,0 +1,13 @@
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\bin\Debug\netcoreapp3.1\clases_1.exe
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\bin\Debug\netcoreapp3.1\clases_1.deps.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\bin\Debug\netcoreapp3.1\clases_1.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\bin\Debug\netcoreapp3.1\clases_1.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\bin\Debug\netcoreapp3.1\clases_1.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\bin\Debug\netcoreapp3.1\clases_1.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\obj\Debug\netcoreapp3.1\clases_1.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\obj\Debug\netcoreapp3.1\clases_1.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\obj\Debug\netcoreapp3.1\clases_1.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\obj\Debug\netcoreapp3.1\clases_1.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\obj\Debug\netcoreapp3.1\clases_1.dll
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\obj\Debug\netcoreapp3.1\clases_1.pdb
+C:\Users\nicol\OneDrive\Documentos\github\practica_c-\clases_1\clases_1\obj\Debug\netcoreapp3.1\clases_1.genruntimeconfig.cache
